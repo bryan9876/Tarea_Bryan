@@ -1,8 +1,10 @@
-%descricion:  para graficar funciones polinomiales 
-%author: Jafet martinez meza 
+%descricion: Graficar funciones polinomiales 
+%date: 202123065
+%author: Bryan Alejandro Martinez López
 %fecha: 19/11/2021
-%date: 202123653
+
 x=-20:1:20;
 y=(2.*x)-1;
+
 plot(x,y);
-title ("no hay valores para cero es una funcion racional");
+title ("no existen valores para cero ya que es una funcion racional");
