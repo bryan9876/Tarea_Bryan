@@ -8,4 +8,4 @@ y= (x+2)./(x-1);
 
 plot (x,y);
 
-title ("no existen valores para cero, por que es un afuncion racional")
+title ("no existen valores para cero, por que es un afuncion racional");
